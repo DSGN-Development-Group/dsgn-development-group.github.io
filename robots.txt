@@ -1,0 +1,12 @@
+Sitemap: https://nouveau.dsgn.com.my/animations/logo/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/en/404/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/en/about-us/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/en/contact-us/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/en/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/en/work-in-progress/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/zh-hans/404/sitemap.xml
+Sitemap: https://nouveau.dsgn.com.my/zh-hans/work-in-progress/sitemap.xml
+
+User-agent: *
+Allow: /
